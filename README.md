@@ -1,4 +1,4 @@
-# Hi we are students from RP  doing tasks that is related to this project
+# Hi we are RP students  doing tasks that is related to this project
 
 Axomem Axoverse xWorld Digital Twins - xWorld Assets Package
 
