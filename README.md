@@ -1,4 +1,6 @@
-# Axomem Axoverse xWorld Digital Twins - xWorld Assets Package
+# Hi we are students from RP  doing tasks that is related to this project
+
+Axomem Axoverse xWorld Digital Twins - xWorld Assets Package
 
 For installation steps see [Documentation~/README.md](Documentation~/README.md)
 
